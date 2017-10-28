@@ -1,2 +1,3 @@
 # hello-world
-Mencoba project awal.
+
+This is Azmy, i love HTML5 and CSS3.
